@@ -90,4 +90,3 @@ java -cp "lib/*;src" Main
 - Pass threshold is set to total >= 120 (out of 300).
 - Grades are based on average score (A/B/C/D/F).
 - Exports are saved to a location you choose from the Save dialog.
-
